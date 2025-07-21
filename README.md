@@ -1,5 +1,5 @@
 Hi, I am Michael! I am a Software Engineer / Full Stack Developer, based in London.
 
-I am focusing on Javascript, React.js, Next.js, and Node.js. I also follow the works of Alan Kay, [Paul Graham](http://www.paulgraham.com/articles.html), and [Oz Nova](https://ozwrites.com/). I am also an instructor and mentor at [Code Your Future](https://codeyourfuture.io/)
+Currently focusing on Go, and some TypeScript with Bun.js. Making my way through Neetcode 150 too.
 
-Started, and am still currently in the "Valley of despair" of the "Dunning–Kruger curve".
+Started, and am still currently in the "Valley of despair" of the Dunning–Kruger curve.
